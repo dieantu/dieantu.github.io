@@ -149,8 +149,6 @@ Foo foo = (Foo)2;
 
 
 <br /><br />vb:
-{% highlight vb linenos %}
-Private Sub Form_Load()
-    MsgBox "Hello, World!"
-End Sub
+{% highlight bash %}
+whoami dieantu.com
 {% endhighlight %}
