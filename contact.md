@@ -6,4 +6,7 @@ permalink: /contact
 
 # Get in touch?
 
-You can contact me on whoami(at)dieantu.com
+You can mail me:
+{% highlight bash %}
+whoami at dieantu.com
+{% endhighlight %}
