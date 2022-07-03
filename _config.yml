@@ -9,7 +9,7 @@ header_pages:
 
 style: dark
 
-footer: 'GPG: <whoami(at)dieantu.com> F49E 323E 0A2E 8E55 1198 6A8B B913 84FC 5D03 893E'
+footer: 'GPG: -whoami(at)dieantu.com- F49E 323E 0A2E 8E55 1198 6A8B B913 84FC 5D03 893E'
 
 # Build settings
 markdown: kramdown
