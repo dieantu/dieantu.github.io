@@ -8,5 +8,5 @@ permalink: /contact
 
 You can mail me:
 {% highlight bash %}
-whoami at dieantu.com
+contact at dieantu.com
 {% endhighlight %}
